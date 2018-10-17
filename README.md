@@ -1,4 +1,4 @@
-# React Native Rich Text Editor
+# React Native Rich Text Editor 
 
 A fully functional Rich Text Editor for both Android and iOS, based off the [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor/tree/master/ZSSRichTextEditor) project. 
 
