@@ -1,11 +1,11 @@
 {
-  "name": "@mikeljames/react-native-zss-rich-text-editor",
+  "name": "@mattslight/react-native-zss-rich-text-editor",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wix/react-native-zss-rich-text-editor.git"
+    "url": "https://github.com/mattslight/react-native-zss-rich-text-editor.git"
   },
   "version": "1.1.0",
-  "description": "React Native Wrapper for ZSSRichTextEditor",
+  "description": "React Native Wrapper for ZSSRichTextEditor fork",
   "main": "index.js",
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
